@@ -8,17 +8,6 @@ A Simple Hospital Management Project build using Python Flask and SQL Alchemy
 * [Jinja](https://jinja.palletsprojects.com/en/2.11.x/)
 
 
-## Screenshots
-
-<img src="screencapture-buerocarehospital-herokuapp-home-2020-07-27-21_31_56.png">
-<img src="screencapture-buerocarehospital-herokuapp-create-patient-2020-07-27-21_32_23.png">
-<img src="screencapture-buerocarehospital-herokuapp-addMedicine-2020-07-27-21_33_06.png">
-<img src="screencapture-buerocarehospital-herokuapp-PharmacistPatientDetails-2020-07-27-21_33_19.png">
-<img src="screencapture-buerocarehospital-herokuapp-DiagnosticsPatientDetails-2020-07-27-21_33_40.png">
-<img src="screencapture-buerocarehospital-herokuapp-billing-2020-07-27-21_33_52.png">
-<img src="screencapture-buerocarehospital-herokuapp-login-2020-07-27-21_34_28.png">
-
-
 <!-- GETTING STARTED -->
 ## Getting Started
 
@@ -36,7 +25,7 @@ python -m venv venv
 3. activate virtual env
 ```sh
 
-D:\flask\HospitalManagement> cd venv/Scripts/activate
+D:\flask\HospitalManagementSystem> cd venv/Scripts/activate
 
 After venv is activated
 
@@ -57,7 +46,7 @@ D:\flask\Retail-Banking>flask run
 ```
 6. thats it..!!
 
-## hosted on heroku : http://buerocarehospital.herokuapp.com
+
 
 
 
