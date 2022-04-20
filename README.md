@@ -19,7 +19,7 @@ Follow the installation steps to open project without error
 2. I've used virtual environment. It's not necessary, but using virtual environment is preferable.
 ```sh
 
-python -m venv venv
+python3 -m venv venv
 
 ```
 3. activate virtual env
