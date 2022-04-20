@@ -19,19 +19,11 @@ Follow the installation steps to open project without error
 2. I've used virtual environment. It's not necessary, but using virtual environment is preferable.
 ```sh
 
-python3 -m venv venv
-
+git clone https://github.com/aggrey-Felix/HospitalmanagementSystem.git
 ```
-3. activate virtual env
-```sh
+cd  HospitalManagementSystem
 
-D:\flask\HospitalManagementSystem> cd venv/Scripts/activate
-
-After venv is activated
-
-(venv) D:\flask\Retail-Banking>
-
-```
+root\HospitalManagementSystem>
 4. Install all the required libraries for the application
 ```sh
 
@@ -41,7 +33,7 @@ After venv is activated
 5. To run the code
 ```sh
 
-D:\flask\Retail-Banking>flask run
+root/HospitalManagementSystem>flask run
 
 ```
 6. thats it..!!
