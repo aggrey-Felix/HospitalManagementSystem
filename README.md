@@ -40,5 +40,10 @@ root/HospitalManagementSystem>flask run
 
 
 
+<h1>Authers</h1>
 
-
+<ul>
+<li><a href="github.com/manodhiambo">Kevin Owino Odhiambo</a></li>
+<li><a href="">Felix Abongo</a>
+<li><a href="">Nandweza Allan Matiba</a>
+</ul>
