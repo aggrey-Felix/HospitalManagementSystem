@@ -14,7 +14,7 @@ A Simple Hospital Management Project build using Python Flask and SQL Alchemy
 Follow the installation steps to open project without error
 
 ### Installation
- 
+
 1. Download and extract the project
 2. I've used virtual environment. It's not necessary, but using virtual environment is preferable.
 ```sh
@@ -40,10 +40,10 @@ root/HospitalManagementSystem>flask run
 
 
 
-<h1>Authers</h1>
+<h1>Authors</h1>
 
 <ul>
 <li><a href="github.com/manodhiambo">Kevin Owino Odhiambo</a></li>
-<li><a href="github.com/aggrey-Felix">Felix Abongo</a>
-<li><a href="">Nandweza Allan Matiba</a>
+<li><a href="github.com/aggrey-Felix">Felix Abongo</a></li>
+<li><a href="github.com/nandweza">Nandweza Allan</a></li>
 </ul>
